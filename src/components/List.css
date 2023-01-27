@@ -1,0 +1,13 @@
+ul{
+  width:800px;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content: flex-start;
+  margin:0 auto;
+}
+
+ul>li{
+  width:160px;
+  margin: 0 20px 40px;
+  /* 400 - 20 20 */
+}
